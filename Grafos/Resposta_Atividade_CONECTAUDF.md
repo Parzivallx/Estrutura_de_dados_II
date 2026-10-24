@@ -4,7 +4,7 @@
 
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
-**Integrantes:** \[Inserir os nomes dos integrantes do grupo\]
+**Integrantes:** \[Emmanuel Ferreira Gomes, João Pedro Reis Rios, Douglas Mesquita, Matheus Azevedo Novaes e Wesley Gabriel Carvalho\]
 
 ## 🧭 1. O desafio
 
