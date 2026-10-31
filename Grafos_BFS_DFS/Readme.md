@@ -196,10 +196,6 @@ Entregue os seguintes arquivos:
 - 🐍 `solucao_grafos.py` — código-fonte.
 - 📘 `README.md` — documentação do projeto.
 - 🖼️ `diagrama_grafo.png` — imagem do grafo.
-- ⚙️ `gerar_diagrama.py` — código para gerar o diagrama.
-- 📄 `evidencia_testes.txt` — resultados dos testes automatizados.
-- 📄 `evidencia_interativa.txt` — resultados da execução interativa.
-- 📝 `roteiro_apresentacao.md` — roteiro da apresentação de 5 minutos.
 
 ## 📚 11. Referências
 
